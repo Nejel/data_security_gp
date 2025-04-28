@@ -1,6 +1,6 @@
 # data_security_gp
 
-Repo consist several files
+The repo contains several files
 
 [Notebook with Visuals](./group_project.ipynb)
 
